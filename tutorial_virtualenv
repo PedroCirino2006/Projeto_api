@@ -1,0 +1,6 @@
+iniciando tutorial virtualenv
+
+o que é
+
+O `virtualenv` é uma ferramenta que cria ambientes Python isolados, permitindo a gestão de dependências e versões de pacotes específicos para diferentes projetos, evitando conflitos entre bibliotecas. Esses ambientes independentes garantem a integridade e consistência das dependências de cada projeto.
+
