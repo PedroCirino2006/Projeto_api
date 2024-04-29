@@ -3,3 +3,14 @@ iniciando tutorial python
 Python é uma linguagem de programação de alto nível, interpretada, com sintaxe clara e legível, amplamente 
 utilizada em desenvolvimento web, análise de dados, inteligência artificial e automação. Criada por
  Guido van Rossum em 1991, enfatiza a legibilidade do código e produtividade do programador.
+
+ fazer download python
+
+ Para fazer o download do Python, siga estes 3 passos simples:
+
+1. Acesse o site oficial do Python em python.org.
+2. Clique no botão de download para obter a versão mais recente do Python.
+3. Siga as instruções de instalação fornecidas no site para concluir o processo de download
+ e instalação do Python em seu computador.
+
+
