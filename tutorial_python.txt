@@ -1,1 +1,5 @@
 iniciando tutorial python
+
+Python é uma linguagem de programação de alto nível, interpretada, com sintaxe clara e legível, amplamente 
+utilizada em desenvolvimento web, análise de dados, inteligência artificial e automação. Criada por
+ Guido van Rossum em 1991, enfatiza a legibilidade do código e produtividade do programador.
