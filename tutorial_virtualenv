@@ -17,3 +17,7 @@ Para configurar o `virtualenv`, siga estes passos:
 4. **Desativar o Ambiente Virtual:** Para desativar o ambiente virtual, utilize o comando `deactivate`.
 
 Seguindo esses passos, você poderá configurar e utilizar o `virtualenv` para isolar e gerenciar as dependências de seus projetos Python de forma eficiente.
+
+como instalar o flask 
+
+para instalar o flask voce tem que abrir o terminal bash e dar o comando pip install flask 
